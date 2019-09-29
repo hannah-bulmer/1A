@@ -1,6 +1,6 @@
 # Hello there!
 
-When I was in first year university, we had to take a course that taught functional programming in a student language called [Dr Racket](https://racket-lang.org/). Now, this was basically the first time I had ever touched code, so I really wasn't very good. But I was really into what Dr Racket had to offer - especially its extensive libraries for animation, mouse events, and other such tools. At this time, as a rudimentary programmer, I had no idea what `Javascript` and other languages may have to offer in terms of making any kind of interactive program, and I was rather blown away.
+When I was in first year university, we had to take a course that taught functional programming in a student language called [Racket](https://racket-lang.org/). Now, this was basically the first time I had ever touched code, so I really wasn't very good. But I was really into what Racket had to offer - especially its extensive libraries for animation, mouse events, and other such tools. At this time, as a rudimentary programmer, I had no idea what `Javascript` and other languages may have to offer in terms of making any kind of interactive program, and I was rather blown away.
 
 I spent a lot of my spare time this semester making some mediocre little Racket games. I then attempted to put them on Github, not knowing
 * how to use GitHub
